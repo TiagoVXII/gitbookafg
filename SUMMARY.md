@@ -1,6 +1,6 @@
 # Table of contents
 
 * [Empregos](README.md)
-  * [FOG](Empregos/FOG.md)
+  * [Forward Observations Group](readme/forward-observations-group.md)
 * [Introdução](introducao/README.md)
   * [Index](Introdução/Index.md)
